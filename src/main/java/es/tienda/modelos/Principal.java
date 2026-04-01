@@ -18,6 +18,5 @@ public class Principal {
         proveedor=proveedor.alta();
         proveedor.setTipoProveedor(TipoProveedor.RECURSOS);
         proveedor.mostrarDatos();
-        System.out.println("Generando un conflicto desde remoto");
     }
 }
