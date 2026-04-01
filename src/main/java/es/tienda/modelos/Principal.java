@@ -18,5 +18,6 @@ public class Principal {
         proveedor=proveedor.alta();
         proveedor.setTipoProveedor(TipoProveedor.RECURSOS);
         proveedor.mostrarDatos();
+        System.out.println("Creando conflicto desde local");
     }
 }
