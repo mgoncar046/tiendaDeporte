@@ -12,6 +12,7 @@ public class Proveedor extends Persona {
     /**
      *
      *
+     *
      * @param nombre
      * @param apellidos
      * @param dni
