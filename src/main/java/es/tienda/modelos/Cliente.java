@@ -17,7 +17,10 @@ public class Cliente extends Persona {
 
     @Override
     public void mostrarDatos() {
+        //prueba de modificación
         System.out.printf("Nombre: %s , DNI:%s, TipoCliente:%s",
                 getNombre(),getDni(),getTipoCliente());
     }
+
+
 }
